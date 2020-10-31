@@ -1,5 +1,5 @@
 # virtualKeyboard
-This program describes working of a virtual keyboard on Windows.
+This program implements working of virtual keyboard on Windows.
 The file uses C++11 features.
 
 Build: 
