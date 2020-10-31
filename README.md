@@ -1,11 +1,12 @@
 # virtualKeyboard
-This program describes working of a virtual keyboard.
+This program describes working of a virtual keyboard on Windows.
+The file uses C++11 features.
 
 Build: 
 1. To build the program, GCC compiler is required with C++ 11 support.
-2. Use the following command to build: g++ virtualKeyboardWindows.cpp -o run -std=c++11
+2. Command to compile: g++ virtualKeyboardWindows.cpp -o virtualkeyboard.exe -std=c++11
 
-Run:
-1. To run the program use: .\run
-       
-The file uses C++11 features.
+Description: This program takes input from consol till ENTER key is pressed and exits the program when Ctrl+q is given.
+
+Usage:
+1. To run the program use: .\virtualkeyboard
